@@ -1,0 +1,17 @@
+{
+  "movie_clip": "map9v1",
+  "root_nodes":[
+   "base1"
+  ],
+	"nodes":[
+		{	"name":	"base1", "children": ["base2", "base3"] },
+		{	"name":	"base2", "children": ["base4", "base5"]  },
+		{	"name":	"base3", "children": ["base5", "base6"]  },
+		{	"name":	"base4", "children": ["base41"] },
+		{	"name":	"base5", "children": ["base51"] },
+		{	"name":	"base6", "children": ["base61"] },
+		{	"name":	"base41" },
+		{	"name":	"base51" },
+		{	"name":	"base61" }
+	]
+}

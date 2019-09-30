@@ -1,0 +1,25 @@
+{
+  "movie_clip": "map15v1",
+  "root_nodes":[
+   "A0"
+  ],
+	"nodes":[
+		{	"name":	"A0", "children": ["A1", "C0"] },
+		{	"name":	"A1", "children": ["A2", "B0"]  },
+		{	"name":	"A2", "children": ["A3"]  },
+		{	"name":	"A3", "children": ["A4"]  },
+		{	"name":	"A4", "children": ["A5"]  },
+		{	"name":	"A5", "children": ["A6"]  },
+		{	"name":	"A6"	},
+		
+		{	"name":	"B0", "children": ["B1"]  },
+		{	"name":	"B1", "children": ["B2"]  },
+		{	"name":	"B2", "children": ["A5", "C4"]  },
+		
+		{	"name":	"C0", "children": ["C1", "B0"]  },
+		{	"name":	"C1", "children": ["C2"]  },
+		{	"name":	"C2", "children": ["C3"]  },
+		{	"name":	"C3", "children": ["C4"]  },
+		{	"name":	"C4", "children": ["A6"]  }
+	]
+}
