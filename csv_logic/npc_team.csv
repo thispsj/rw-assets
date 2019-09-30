@@ -1,0 +1,3 @@
+"Name","TID","JSON","LocationDataForFirstOutpost","Chest","NoTimer","Capture","Gold"
+"String","String","String","String","String","boolean","boolean","int"
+"TeamLevel_1","TID_LVL1","npc/team_1.loc.json",,,,,

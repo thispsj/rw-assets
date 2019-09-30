@@ -1,0 +1,4 @@
+"Name","TID","InfoTID","SWF","ExportName","Resource","ResourceAmount","Chest","TriggerRadius","Effect","Effect2","SpawnBaseAnimExportName","SpawnStartEffect","SpawnEndEffect","ShadowScaleX","ShadowScaleY","ShadowX","ShadowY","ShadowSkew","ShadowRotate","CollectByTapping"
+"String","string","string","string","string","string","int","string","int","string","string","string","string","string","int","int","int","int","int","int","boolean"
+"GoldCoin","TID_PICKUP_GOLD","TID_PICKUP_GOLD_INFO","sc/collectables.sc","collect_gold","Gold",1,,2500,"CollectGold",,"filter_deploy_unit_default",,,-80,80,0,0,80,,"TRUE"
+"HOME_FreeChest","TID_PICKUP_CARD","TID_PICKUP_CARD_INFO","sc/collectables.sc","collectable_chest_new",,,"Free",,,,"filter_deploy_unit_default",,,100,-90,-4,12,-9,,"TRUE"

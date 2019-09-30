@@ -1,0 +1,7 @@
+"Name","TID","JSON","LocationDataForFirstOutpost","Chest","NoTimer","Capture","Gold"
+"String","String","String","String","String","boolean","boolean","int"
+"Tutorial_1","TID_NPC_TUTORIAL_1","npc/tutorial_1.loc.json",,"TutorialChest1","true",,15
+"Tutorial_2","TID_NPC_TUTORIAL_2","npc/tutorial_2.loc.json",,"TutorialChest2","true",,15
+"Tutorial_3","TID_NPC_TUTORIAL_3","npc/tutorial_3.loc.json",,"TutorialChest3","true",,15
+"Tutorial_4","TID_NPC_TUTORIAL_4","npc/tutorial_4.loc.json","Forest_20","TutorialChest4","true","TRUE",15
+"Forest_NPC_1","TID_NPC_1_1","npc/forest_npc_1.loc.json",,"Common","true",,15

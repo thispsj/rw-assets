@@ -1,0 +1,10 @@
+"Name","TID","UpgradeGold","ChestMultiplier","MaxHeliLevel","AttackCost","OutpostTimeH","ResourcePer100Hours","ResourceMax","ResearchCost","DominationWinGold","DominationWinGems","DominationLoot"
+"string","string","int","int","int","int","int","int","int","int","int","int","int"
+1,"TID_HQ_LEVEL_1",100,100,1,2,24,1000,40,20,150,3,30
+2,"TID_HQ_LEVEL_2",500,125,2,2,24,1250,50,25,150,3,30
+3,"TID_HQ_LEVEL_3",5000,150,3,5,24,1500,90,30,250,3,40
+4,"TID_HQ_LEVEL_4",20000,175,4,10,24,2000,160,40,250,5,40
+5,"TID_HQ_LEVEL_5",40000,200,5,20,48,3000,270,60,250,5,50
+6,"TID_HQ_LEVEL_6",60000,225,6,30,48,4000,360,80,250,5,50
+7,"TID_HQ_LEVEL_7",100000,250,7,40,72,5000,500,100,500,7,60
+8,"TID_HQ_LEVEL_8",0,275,8,50,72,7000,700,140,500,7,60

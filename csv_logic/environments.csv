@@ -1,0 +1,8 @@
+"Name","TID","ShadowR","ShadowG","ShadowB","ShadowA","ShadowOffsetX","ShadowOffsetY","FileName","ExportName","TilesW","TilesH","WaterTileSet","CameraMarginTilesX","CameraMarginTilesY","CloudFileName","CloudExportName","CloudRandomFlip","CloudMinScale","CloudMaxScale","CloudMinSpeed","CloudMaxSpeed","CloudMinAlpha","CloudMaxAlpha","CloudCount"
+"string","string","int","int","int","int","int","int","string","string","int","int","string","int","int","string","string","boolean","int","int","int","int","int","int","int"
+"Preview",,17,,106,60,100,100,"sc/level_grass.sc","Preview_large",42,20,"ForestWater",,,,,,,,,,,,
+"Forest","TID_ENVIRONMENT_FOREST",17,,106,60,100,100,"sc/level_forest.sc","env_forest_background",72,36,"ForestWater",2,,,,,,,,,,,
+"Home",,,,255,40,45,200,"sc/home_buildings.sc","env_home_base_01",48,36,"ForestWater",10,10,"sc/level_forest.sc","env_gen_cloud_03","TRUE",70,100,60,90,70,100,4
+"Megacity","TID_ENVIRONMENT_MEGACITY",20,,106,40,100,100,"sc/level_megacity.sc","env_megacity_background",72,36,"CityWater",2,,,,,,,,,,,
+"Desert","TID_ENVIRONMENT_DESERT",30,30,255,50,100,100,"sc/level_desert.sc","env_desert_background",72,36,"DesertWater",2,,,,,,,,,,,
+"Arctic","TID_ENVIRONMENT_ARCTIC",30,30,255,50,100,100,"sc/level_arctic.sc","env_arctic_background",72,36,"ArcticWater",2,,,,,,,,,,,

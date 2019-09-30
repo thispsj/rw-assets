@@ -1,0 +1,9 @@
+"Name","TID","InfoTID","Rarity","TrainingCost","UnlockLevel","CardFileName","CardExportName","HousingSpace","Type","AreaOfEffect","IsCollectable","UnlockTier","Projectile","Effect","SpawnCharacter","SpawnCount","SpawnRadius","PreDelayEffect","Delay","OnlyOnPlayfield","PreviewTriggerTime","EditModeOnly","UpgradeLevelFrom","LevelGenGuide"
+"string","string","string","string","int","int","string","string","int","string","string","boolean","int","string","string","string","int","int","string","int","boolean","int","boolean","String","String"
+"Rage","TID_ABILITY_RAGE","TID_ABILITY_INFO_RAGE","Rare",,2,"sc/ui_portraits.sc","portrait_airdrop_rage",1,"AOE","Rage","TRUE",3,,,,,,,0,,5000,,,
+"Heal","TID_ABILITY_HEAL","TID_ABILITY_INFO_HEAL","Rare",,3,"sc/ui_portraits.sc","portrait_airdrop_heal",1,"AOE","Heal","TRUE",3,,,,,,,0,,3000,,,
+"ArcadeDrop","TID_ABILITY_BOX_DROP","TID_ABILITY_INFO_BOX_DROP","Common",,1,"sc/ui_portraits.sc","portrait_airdrop_arcade",1,"PROJECTILE",,"TRUE",3,"ArcadeDropProjectile","ArcadeDropStart",,,1500,,0,,1250,,,
+"Invisibility","TID_ABILITY_INVISIBILITY","TID_ABILITY_INFO_INVISIBILITY","Rare",,5,"sc/ui_portraits.sc","portrait_airdrop_invisibility",2,"AOE","Invisibility","TRUE",3,,,,,,,0,,1250,,,
+"Paratrooper","TID_ABILITY_PARATROOPER","TID_ABILITY_INFO_PARATROOPER","Common",,5,"sc/ui_portraits.sc","portrait_airdrop_paratrooper",1,"SPAWN",,"TRUE",3,,"parachute_close","Paratrooper",2,2250,"parachute_open",850,"TRUE",2500,,,
+"Bombard","TID_ABILITY_BOMBARD","TID_ABILITY_INFO_BOMBARD","Rare",,7,"sc/ui_portraits.sc","portrait_airdrop_bombard",2,"PROJECTILE",,"TRUE",3,"BombardProjectile",,,,3000,"Sattelite_drop",0,,1250,,,
+"Fridge","TID_ABILITY_FRIDGE","TID_ABILITY_INFO_FRIDGE","Epic",,6,"sc/ui_portraits.sc","portrait_airdrop_fridge",2,"PROJECTILE",,"TRUE",3,"FridgeDropProjectile","FridgeDropStart",,,2250,,0,,1250,,,
