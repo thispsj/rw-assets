@@ -3,9 +3,11 @@
 
 # Notices For Folders.
   - assets/font,assets/fonts
-    All the Fonts are the trademarks of Supercell Oy,Google and Others respectively.Please take their oral or written permission before using them.
+   
+   All the Fonts are the trademarks of Supercell Oy,Google and Others respectively.Please take their oral or written permission before using them.
 
  - assets/sc,assets/sc_tex
+  
   All the graphics are a property of Supercell Oy. You're only allowed to see them using an viewer you have. Please take their consent (written or oral) before modifying and posting them to the web.
 
 # Copyright Notice.
