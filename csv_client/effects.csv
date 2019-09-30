@@ -1,0 +1,2 @@
+"Name","Loop","FollowParent","ShakeScreen","Time","RenderableScale","Sound","Type","FileName","ExportName","ParticleEmitterName","Effect","Layer","Scale","TextInstanceName","TextParentInstanceName","EnemyVersion","FlashWidth","KillLoopingSoundsOnEnd","OutputEvent","ParentLookAtOffsetRadius","Shadow"
+"string","boolean","boolean","int","int","int","string","string","string","string","string","string","string","int","string","string","string","int","boolean","string","int","boolean"

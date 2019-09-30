@@ -1,0 +1,8 @@
+"Name","TID","Disabled","ExistsApple","ExistsAndroid","ExistsKunlun","ExistsJupiter","Diamonds","USD","RMB","Order","IconSWF","IconExportName","JupiterID","StarterPackName","IsRedPackage","RumblePackName","ChronosOfferName","RedeemMax","CampaignId"
+"String","String","boolean","boolean","boolean","boolean","boolean","int","int","int","int","string","string","String","String","boolean","String","String","int","int"
+"com.supercell.rush.gempack0","TID_DIAMOND_PACK_0",,"TRUE","TRUE","TRUE","TRUE",80,99,600,0,"sc/ui_portraits.sc","shop_currency_gems_01_large",,,,,,,
+"com.supercell.rush.gempack1","TID_DIAMOND_PACK_1",,"TRUE","TRUE","TRUE","TRUE",500,499,3000,1,"sc/ui_portraits.sc","shop_currency_gems_02_large",,,,,,,
+"com.supercell.rush.gempack2","TID_DIAMOND_PACK_2",,"TRUE","TRUE","TRUE","TRUE",1200,999,6800,2,"sc/ui_portraits.sc","shop_currency_gems_03_large",,,,,,,
+"com.supercell.rush.gempack3","TID_DIAMOND_PACK_3",,"TRUE","TRUE","TRUE","TRUE",2500,1999,12800,3,"sc/ui_portraits.sc","shop_currency_gems_04_large",,,,,,,
+"com.supercell.rush.gempack4","TID_DIAMOND_PACK_4",,"TRUE","TRUE","TRUE","TRUE",6500,4999,32800,4,"sc/ui_portraits.sc","shop_currency_gems_05_large",,,,,,,
+"com.supercell.rush.gempack5","TID_DIAMOND_PACK_5",,"TRUE","TRUE","TRUE","TRUE",14000,9999,64800,5,"sc/ui_portraits.sc","shop_currency_gems_06_large",,,,,,,
