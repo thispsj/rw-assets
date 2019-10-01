@@ -11,6 +11,8 @@
   All the graphics are a property of Supercell Oy. You're only allowed to see them using an viewer you have. Please take their consent (written or oral) before modifying and posting them to the web.
   
   All the music & SFX files are trademarks of Supercell Oy respectively. You're not allowed to modify or use them for earning money in any form.
+  
+  Please note : All the content like music, SFX, graphics etc belongs and will always belong to Supercell Oy. Please take their consent before you modify or/and make any changes to the files or/and distributing for profit/money and posting them on the web after applying the former changes/rules. By using the files for personal or non-profit purposes you also abide by the # Supercell Fan Content Policy.
 
 # Copyright Notice.
  Please see the appropriate the appropriate copyrights applicable to files and folders respectively.
