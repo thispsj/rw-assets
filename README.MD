@@ -9,6 +9,8 @@
  - assets/sc,assets/sc_tex,assets/music, assets/sfx
   
   All the graphics are a property of Supercell Oy. You're only allowed to see them using an viewer you have. Please take their consent (written or oral) before modifying and posting them to the web.
+  
+  All the music & SFX files are trademarks of Supercell Oy respectively. You're not allowed to modify or use them for earning money in any form.
 
 # Copyright Notice.
  Please see the appropriate the appropriate copyrights applicable to files and folders respectively.
