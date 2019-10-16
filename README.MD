@@ -1,6 +1,16 @@
 # Rush Wars Assets.
  Contains all The static data and assets for Rush Wars.
 
+# Fan Content Policy.
+ Please read Supercell Oy's [Fan Content Policy](https://supercell.com/en/fan-content-policy/)
+ before proceeding further.
+ 
+# Update.
+  We normally update the content usually within a day of Rush Wars client update. But sometimes we might forget or due to existing workload we may not be able to update the content. You can request a content update by opening an issue. We'll update , notify you and close the issue.
+
+# Contributing.
+  Contributions to the repository is open and allowed only to those we trust. Interested in contributing ? E-MAIL us @ : philphirn@gmail.com
+  
 # Notices For Folders.
   - `assets/font`,`assets/fonts`
    
@@ -16,13 +26,3 @@
 
 # Copyright Notice.
  Please see the appropriate the appropriate copyrights applicable to files and folders respectively.
-
-# Fan Content Policy.
- Please read Supercell Oy's [Fan Content Policy](https://supercell.com/en/fan-content-policy/)
- before proceeding further.
-
-# Update.
-  We normally update the content usually within a day of Rush Wars client update. But sometimes we might forget or due to existing workload we may not be able to update the content. You can request a content update by opening an issue. We'll update , notify you and close the issue.
-
-# Contributing.
-  Contributions to the repository is open and allowed only to those we trust. Interested in contributing ? E-MAIL us @ : philphirn@gmail.com
