@@ -16,7 +16,7 @@
    
    All the Fonts are the trademarks of Supercell Oy & Others respectively.Please take their oral or written permission before using them.
 
- `assets/sc`,`assets/sc_tex`,`assets/music`, `assets/sfx`
+ - `assets/sc`,`assets/sc_tex`,`assets/music`, `assets/sfx`
   
   All the graphics,music & SFX files are trademarks of Supercell Oy respectively. You're not allowed to modify and use them for earning money in any form.
   
