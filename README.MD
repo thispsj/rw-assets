@@ -1,5 +1,5 @@
 # Rush Wars Assets.
- Contains all The static data and assets for Rush Wars.
+ Contains all The static data and assets for Rush Wars, the newest [Supercell](https://supercell.com) Game..
 
 # Fan Content Policy.
  Please read Supercell Oy's [Fan Content Policy](https://supercell.com/en/fan-content-policy/)
