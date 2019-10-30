@@ -3,3 +3,4 @@
 "Gold1","TID_RESOURCE_PACK_GOLD_SMALL","Gold",25,"sc/ui_portraits.sc","shop_currency_gold_01_large"
 "Gold2","TID_RESOURCE_PACK_GOLD_MEDIUM","Gold",50,"sc/ui_portraits.sc","shop_currency_gold_02_large"
 "Gold3","TID_RESOURCE_PACK_GOLD_BIG","Gold",100,"sc/ui_portraits.sc","shop_currency_gold_03_large"
+"Gold0","TID_RESOURCE_PACK_GOLD_XSMALL","Gold",10,"sc/ui_portraits.sc","shop_currency_gold_00_large"

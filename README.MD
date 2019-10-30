@@ -8,6 +8,12 @@
 # Update.
   We normally update the content usually within a day of Rush Wars client update. But sometimes we might forget or due to existing workload we may not be able to update the content. You can request a content update by opening an issue. We'll update , notify you and close the issue.
 
+# Release Notes
+  - `0.284`
+     Updated all the files to comply with the latest [Rush Wars](https://link.rushwarsgame.com) version. Also contains the latest Halloween graphic files.
+  - `0.1`
+   Intial Release files.
+
 # Contributing.
   Contributions to the repository is open and allowed only to those we trust. Interested in contributing ? E-MAIL us @ : philphirn@gmail.com
   

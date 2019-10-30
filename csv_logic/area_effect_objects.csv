@@ -5,3 +5,5 @@
 "Invisibility","Rare",4000,500,,2500,,"Invisibility_effect","Invisibility",,,,50,,,,,"Invisibility",1500,,,,1,,"TRUE",,,,,,,,,,,,,"TRUE","TRUE",,,,,,
 "Freeze","Epic",5000,500,"TRUE",2250,,,"Freeze",,,,,,,,,"Freeze",5000,300,300,,1,"TRUE",,,,,,,,,,,,,,"TRUE","TRUE",,,,,,
 "Poison","Epic",8000,,,3500,"Spell_poison_loop","Spell_poison_effect","poison_01",,,,250,,,,,"Poison",1000,,,,1,"TRUE",,,,,,,,,,,,,,"TRUE","TRUE",,,,,,
+"EliteSoldierRage","Epic",3000,500,,3750,,"Spell_rage_effect","Rage",,,,300,,,,,"Rage",500,,,"TRUE",1,,"TRUE",,,,,,,,,,,,,"TRUE","TRUE",,,,,,
+"FreezeBarrel","Epic",5000,500,"TRUE",2250,,,"web_01",,,,,,,,,"Freeze",5000,300,300,,1,"TRUE",,,,,,,,,,,,,,"TRUE","TRUE",,,,,,

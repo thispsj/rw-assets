@@ -16,6 +16,6 @@
 "Frozen3","TID_BUFF_FREEZE",,,,,,,,-100,-100,-100,,,,,,,,,,"sc/effects.sc","filter_cold",,,,,,,,,,,,,,
 "DashRage","TID_BUFF_RAGE",,,,,,,,250,250,,,,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_rage",,,,,,"Healing",125,,,,,,,
 "GotoHeli",,,,,,,,,,400,,,,,,,,,,,,,,,,,,,,,,,,,,
-"BerserkRage","TID_BUFF_RAGE",,,,,,,,400,,,,,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_berserk",,,,,,"Healing",125,,,,,,,
+"EliteGrenadeBerserk","TID_BUFF_RAGE",,,,,,,,400,,,,,,,,,,,"Spell_rage_hit_effect","sc/effects.sc","filter_berserk",,,,,,"Healing",125,,,,,,,
 "Tazer","TID_BUFF_TAZER",,,,,,,,-35,-35,-35,,,,,,,,,,"sc/effects.sc","filter_tazer",,,,,,"Healing",75,,,,,,,
 "FlamerBurn",,,,,,,,,,,,,,,,,,,,,"sc/effects.sc","filter_burn",,,,,,,,,,,,,,
