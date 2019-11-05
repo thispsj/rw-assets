@@ -1,5 +1,6 @@
 # Game Close News.
  The dev team has decided to terminate the development of Rush Wars. And that's why we'll no more be updating or responding to issues in this repo.
+ Read more [here](https://redd.it/drx6cv)
 # Rush Wars Assets.
  Contains all The static data and assets for Rush Wars, the newest [Supercell](https://supercell.com) Game..
 
