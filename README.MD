@@ -1,3 +1,5 @@
+# Game Close News.
+ The dev team has decided to terminate the development of Rush Wars. And that's why we'll no more be updating or responding to issues in this repo.
 # Rush Wars Assets.
  Contains all The static data and assets for Rush Wars, the newest [Supercell](https://supercell.com) Game..
 
@@ -6,16 +8,18 @@
  before proceeding further.
  
 # Update.
-  We normally update the content usually within a day of Rush Wars client update. But sometimes we might forget or due to existing workload we may not be able to update the content. You can request a content update by opening an issue. We'll update , notify you and close the issue.
+W won't be updating this repo anymore due to closure of Rush Wars.
 
 # Release Notes
-  - `0.284`
+ - `999-dead`
+    The game is dead now & will be switched off forever on 30th Nov 2019. This update will be releasing on the same day. The repo maybe Archived or deleted forever after this update.
+ - `0.284`
      Updated all the files to comply with the latest [Rush Wars](https://link.rushwarsgame.com) version. Also contains the latest Halloween graphic files.
   - `0.1`
    Intial Release files.
+  
 
-# Contributing.
-  Contributions to the repository is open and allowed only to those we trust. Interested in contributing ? E-MAIL us @ : philphirn@gmail.com
+
   
 # Notices For Folders.
   - `assets/font`,`assets/fonts`
@@ -28,5 +32,5 @@
   
   Please note : All the content like music, SFX, graphics etc belongs and will always belong to Supercell Oy. Please take their consent before you modify or/and make any changes to the files for distributing them for profit/money by posting them on the web after applying the former changes/rules. By using the files for personal or non-profit purposes you also abide by the [Fan Content Policy](https://github.com/psjbk/rw-assets/blob/master/README.MD#fan-content-policy).
 
-# Copyright Notice.
- Please see the appropriate the appropriate copyrights applicable to files and folders respectively.
+
+
