@@ -1,3 +1,5 @@
+# Important Message
+ Please checkout the `README` File of the `game-dead-nov30` branch before reading this file further.
 # Rush Wars Assets.
  Contains all The static data and assets for Rush Wars, the newest [Supercell](https://supercell.com) Game..
 
@@ -14,8 +16,8 @@
   - `0.1`
    Intial Release files.
 
-# Contributing.
-  Contributions to the repository is open and allowed only to those we trust. Interested in contributing ? E-MAIL us @ : philphirn@gmail.com
+
+
   
 # Notices For Folders.
   - `assets/font`,`assets/fonts`
