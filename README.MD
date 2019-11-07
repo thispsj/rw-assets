@@ -11,7 +11,7 @@
  before proceeding further.
  
 # Update.
-W won't be updating this repo anymore due to closure of Rush Wars.
+We won't be updating this repo anymore due to closure of Rush Wars.
 
 # Release Notes
  - `999-dead`
