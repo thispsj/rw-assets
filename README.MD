@@ -1,3 +1,5 @@
+#Repo Archived
+ This repo has been archived forever.
 # Game Close News.
  The dev team has decided to terminate the development of Rush Wars. And that's why we'll no more be updating or responding to issues in this repo.
  Read more [here](https://redd.it/drx6cv)
