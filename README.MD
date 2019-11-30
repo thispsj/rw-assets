@@ -1,8 +1,13 @@
+
 # Repo Archived
  This repo has been archived forever.
 # Game Close News.
  The dev team has decided to terminate the development of Rush Wars. And that's why we'll no more be updating or responding to issues in this repo.
  Read more [here](https://redd.it/drx6cv)
+The game has been closed officially forever.
+
+
+
 # Rush Wars Assets.
  Contains all The static data and assets for Rush Wars, the newest [Supercell](https://supercell.com) Game..
 
@@ -21,6 +26,11 @@ We won't be updating this repo anymore due to closure of Rush Wars.
   - `0.1`
    Intial Release files.
   
+
+
+
+
+
 
 
   
