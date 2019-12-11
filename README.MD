@@ -20,7 +20,7 @@ We won't be updating this repo anymore due to closure of Rush Wars.
 
 # Release Notes
  - `999-dead`
-    The game is dead now & will be switched off forever on 30th Nov 2019. This update will be releasing on the same day. The repo maybe Archived or deleted forever after this update.
+    The game is dead now & will be switched off forever on 30th Nov 2019. This update was released on the same day. The repo has been Archived after this update.
  - `0.284`
      Updated all the files to comply with the latest [Rush Wars](https://link.rushwarsgame.com) version. Also contains the latest Halloween graphic files.
   - `0.1`
